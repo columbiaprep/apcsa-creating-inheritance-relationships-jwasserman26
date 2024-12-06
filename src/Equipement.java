@@ -1,0 +1,3 @@
+public Equipment extends Item {
+
+}
