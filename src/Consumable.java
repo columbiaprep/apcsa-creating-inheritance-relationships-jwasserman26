@@ -1,0 +1,3 @@
+public Consumable extends Item {
+
+}
