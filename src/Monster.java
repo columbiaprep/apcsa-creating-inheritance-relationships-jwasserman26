@@ -1,4 +1,4 @@
-public Monster extends Entity {
+public class Monster extends Entity {
 private Stats myStats;
 
 }
